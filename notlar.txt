@@ -1,0 +1,24 @@
+INSTALLATION GUIDE
+
+1 Requirements kısmına alttakileri ekleyim linux a opencv kurulum adımları diye
+----------------------------------
+for fedora
+
+sudo dnf install gcc-c++ // to install if the gcc compiler is not installed
+sudo dnf install opencv-devel
+
+for ubuntu
+
+sudo apt update
+sudo apt install libopencv-dev python3-opencv
+----------------------------------------
+
+
+
+
+videos kısmında 
+https://www.youtube.com/watch?v=b2EuwV7PlsM 
+bunu ekleyelim Desktop mod
+
+
+kaynak kodlarıda ya ayrı sayfa olarak yada INSTALLATION GUIDE kısmının başına link olarak ekleyelim

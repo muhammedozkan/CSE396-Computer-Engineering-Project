@@ -1,0 +1,6 @@
+PWEIGHT         0.039
+IWEGHIT         0.000045
+DWEIGHT         2.5
+PERIOD          5
+MAX_OUTPUT      50
+MIN_OUTPUT      -50

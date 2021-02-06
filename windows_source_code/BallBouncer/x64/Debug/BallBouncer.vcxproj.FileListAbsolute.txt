@@ -1,0 +1,2 @@
+C:\Users\muham\source\repos\BallBouncer\x64\Debug\BallBouncer.exe
+C:\Users\muham\source\repos\BallBouncer\x64\Debug\BallBouncer.pdb
